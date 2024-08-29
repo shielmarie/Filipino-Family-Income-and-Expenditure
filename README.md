@@ -1,4 +1,4 @@
-# Filipino-Family-Income-and-Expenditure
+# Filipino Family Income and Expenditure
 The Filipino Family Income and Expenditure report provides a comprehensive overview of the income and spending patterns of households in the Philippines. It highlights key financial data such as sources of income, distribution of expenses,  and consumption trends across different regions and demographics. This report offers insights into the economic well-being, purchasing power, and lifestyle choices of Filipino families, helping to inform policy decisions and socio-economic strategies.
 
 # Dataset
